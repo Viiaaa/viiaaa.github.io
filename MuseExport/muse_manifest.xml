@@ -1,0 +1,124 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="VIiaaa.com" resolutions="1x" timestamp="1579260310803">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="contact.css" crc="192404299" ref="contact"/>
+    <file name="about.css" crc="4250208001" ref="about"/>
+    <file name="index.css" crc="3994127037" ref="index"/>
+    <file name="body-rhythm.css" crc="3992300965" ref="body-rhythm"/>
+    <file name="animation.css" crc="3970334451" ref="animation"/>
+    <file name="portfolio.css" crc="341525988" ref="portfolio"/>
+    <file name="lights-carrier.css" crc="321985368" ref="lights-carrier"/>
+  </folder>
+  <folder name="assets">
+    <file name="bling-bling-bling.mp4" crc="219595144" seo="true" mt="1572243814000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:animation:portfolio:contact:body-rhythm:lights-carrier"/>
+    <file name="museutils.js" crc="4216313831" ref="index:about:animation:portfolio:contact:body-rhythm:lights-carrier"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:animation:portfolio:contact:body-rhythm:lights-carrier"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:about:animation:portfolio:contact:body-rhythm:lights-carrier"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:about:animation:portfolio:contact:body-rhythm:lights-carrier"/>
+    <file name="require.js" crc="3951022091" ref="index:about:animation:portfolio:contact:body-rhythm:lights-carrier"/>
+  </folder>
+  <folder name="images">
+    <file name="u204-4.png" crc="270291662" ref="index"/>
+    <file name="u196-4.png" crc="94243092" ref="index"/>
+    <file name="u225-4.png" crc="530727472" ref="index"/>
+    <file name="u207-4.png" crc="376499133" ref="index"/>
+    <file name="u210-4.png" crc="480076547" ref="index"/>
+    <file name="u213-4.png" crc="4118882331" ref="index"/>
+    <file name="u457-4.png" crc="369313554" ref="index"/>
+    <file name=".jpg" crc="1264380" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u439-12.png" crc="320639844" ref="about"/>
+    <file name="u776-4.png" crc="187215688" ref="about"/>
+    <file name="rain11.png" crc="3768173166" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="buy33.jpg" crc="4255072808" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="shelf11.jpg" crc="399335370" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="end2.jpg" crc="3781560491" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="put55.jpg" crc="3909192205" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="bed11.jpg" crc="3975248797" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="bed44.jpg" crc="158601419" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="walk15.jpg" crc="242664808" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="u779-4.png" crc="4004293427" ref="animation"/>
+    <file name="u617-4.png" crc="4054047481" ref="portfolio"/>
+    <file name="img_4533596x335.jpg" crc="444358343" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="u614-4.png" crc="89462868" ref="portfolio"/>
+    <file name="u782-4.png" crc="4205102561" ref="portfolio"/>
+    <file name="u643-4.png" crc="96707828" ref="portfolio"/>
+    <file name="dscf0362.jpg" crc="64570726" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="u463-4.png" crc="108403712" ref="contact"/>
+    <file name="u460-4.png" crc="528208296" ref="contact"/>
+    <file name="u466-4.png" crc="3985706939" ref="contact"/>
+    <file name="u627-4.png" crc="4294319063" ref="contact"/>
+    <file name="u785-4.png" crc="209508932" ref="contact"/>
+    <file name="img_4524.jpg" crc="4153236563" seo="true" ref="body-rhythm">
+      <caption webpage="body-rhythm" alt=""/>
+    </file>
+    <file name="img_4532.jpg" crc="230018061" seo="true" ref="body-rhythm">
+      <caption webpage="body-rhythm" alt=""/>
+    </file>
+    <file name="img_4533.jpg" crc="455846876" seo="true" ref="body-rhythm">
+      <caption webpage="body-rhythm" alt=""/>
+    </file>
+    <file name="u611-4.png" crc="4176015242" ref="body-rhythm"/>
+    <file name="img_4551.jpg" crc="430914754" seo="true" ref="body-rhythm">
+      <caption webpage="body-rhythm" alt=""/>
+    </file>
+    <file name="img_4552.jpg" crc="4240849112" seo="true" ref="body-rhythm">
+      <caption webpage="body-rhythm" alt=""/>
+    </file>
+    <file name="u788-4.png" crc="163781501" ref="body-rhythm"/>
+    <file name="dscf0355.jpg" crc="4037875760" seo="true" ref="lights-carrier">
+      <caption webpage="lights-carrier" alt=""/>
+    </file>
+    <file name="u728-4.png" crc="325092456" ref="lights-carrier"/>
+    <file name="dscf0351.jpg" crc="246893138" seo="true" ref="lights-carrier">
+      <caption webpage="lights-carrier" alt=""/>
+    </file>
+    <file name="dscf0352.jpg" crc="4006529731" seo="true" ref="lights-carrier">
+      <caption webpage="lights-carrier" alt=""/>
+    </file>
+    <file name="dscf0342.jpg" crc="4101306911" seo="true" ref="lights-carrier">
+      <caption webpage="lights-carrier" alt=""/>
+    </file>
+    <file name="dscf0346.jpg" crc="531555267" seo="true" ref="lights-carrier">
+      <caption webpage="lights-carrier" alt=""/>
+    </file>
+    <file name="dscf0358.jpg" crc="3963374922" seo="true" ref="lights-carrier">
+      <caption webpage="lights-carrier" alt=""/>
+    </file>
+    <file name="u791-4.png" crc="3881488571" ref="lights-carrier"/>
+    <file name="dscf0363.jpg" crc="4193911255" seo="true" ref="lights-carrier">
+      <caption webpage="lights-carrier" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="428821816" seo="true" mt="1579256877012" redirect="true"/>
+  <file name="about.html" crc="342616814" seo="true" mt="1579257727404" redirect="true"/>
+  <file name="animation.html" crc="4290376195" seo="true" mt="1579257794819" redirect="true"/>
+  <file name="portfolio.html" crc="4166529996" seo="true" mt="1579257784833" redirect="true"/>
+  <file name="contact.html" crc="116328383" seo="true" mt="1579257872476" redirect="true"/>
+  <file name="body-rhythm.html" crc="4063740555" seo="true" mt="1579257865076" redirect="true"/>
+  <file name="lights-carrier.html" crc="253365340" seo="true" mt="1579257903660" redirect="true"/>
+</manifest>
